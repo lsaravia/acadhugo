@@ -5,7 +5,7 @@
 
 # Appearance
 
-theme: minimal
+theme: dark
 day_night: true
 font: ''
 font_size: L
@@ -14,46 +14,46 @@ font_size: L
 
 site_type: Person
 local_business_type: ''
-org_name: ''
+org_name: 'CADIC - CONICET - UNGS'
 description: ''
-twitter: ''
+twitter: 'larysar'
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: lsaravia@campus.ungs.edu.ar
+phone: 
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
+  street: 
+  city: 
+  region: 
+  postcode: 
+  country: 
+  country_code: 
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  latitude: 
+  longitude:
+directions:
 office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com'
+
+appointment_url:
 contact_links:
   - icon: twitter
     icon_pack: fab
     name: DM Me
-    link: 'https://twitter.com/Twitter'
-  - icon: skype
-    icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
+    link: 'https://twitter.com/larysar'
+  - icon: researchgate
+    icon_pack: ai
+    name: researchgate
+    link: 'https://www.researchgate.net/profile/Leonardo-Saravia'
   - icon: keybase
+    icon_pack: ai
+    name: google-scholar
+    link: 'https://scholar.google.com/citations?user=FEQ1q5MAAAAJ&hl=es'
+  - icon: telegram
     icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
+    name: larysar
+    link: https://t.me/@learsar
+
 
 # Site header
 
@@ -68,7 +68,7 @@ main_menu:
 
 # Localization
 
-date_format: 'Jan 2, 2006'
+date_format: '2006-01-02'
 time_format: '3:04 PM'
 address_format: en-us
 
@@ -77,7 +77,7 @@ address_format: en-us
 highlight: true
 highlight_languages:
   - r
-math: false
+math: true
 diagram: false
 privacy_pack: false
 edit_page:
@@ -129,7 +129,7 @@ comments:
     publication: true
     event: true
   disqus:
-    shortname: ''
+    shortname: 'lsaravia'
     show_count: true
   commento:
     url: ''
@@ -145,7 +145,7 @@ map:
   api_key: ''
   zoom: 15
 marketing:
-  google_analytics: ''
+  google_analytics: '301640033'
   google_tag_manager: ''
   google_site_verification: ''
   baidu_site_verification: ''

@@ -14,7 +14,7 @@ subtitle:
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: Jan 2006
+date_format: 2006-01-02
 
 # Experiences.
 #   Add/remove as many `experience` items below as you like.
@@ -22,29 +22,27 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
+  - title: Investigador/Docente
+    company: Universidad Nacional de General Sarmiento
+    company_url: 'https://www.ungs.edu.ar/'
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    location: "Buenos Aires, Argentina"
+    date_start: "2010-03-01"
     date_end: ''
     description: |2-
         Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
+        * Dictar clases de las materias del Área de Biología y Bioinformática
+        * Llevar adelante un linea de investigación del Instituto de Ciencias.
+
+      
+  - title: Profesor Adjunto
+    company: Universidad Maimonides
     company_url: ''
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
-
+    location: "Ciudad de Buenos Aires, Argentina"
+    date_start: "2002-03-01"
+    date_end: "2002-11-30"
+    description: Dictar clases de la materia Bioinformática para Biólogos
 design:
   columns: '2'
 ---
