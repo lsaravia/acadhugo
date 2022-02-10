@@ -1,18 +1,18 @@
 ---
 # Course title, summary, and position.
-linktitle: "Multifractals in ecology using R"
+title: "Fractals and Multifractals in ecology using R"
+linktitle: "Multifractals"
 
 summary: An introduction to power laws and generalized dimensions (fractals and multifractals) with applications to ecology
 
 weight: 1
 
 # Page metadata.
-title: Overview
 date: 2013-08-29
 lastmod: "2020-01-21"
 draft: false  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
-type: docs  # Do not modify.
+type: book  # Do not modify.
 
 # Add menu entry to sidebar.
 # - name: Declare this menu item as a parent with ID `name`.

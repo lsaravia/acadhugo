@@ -20,7 +20,7 @@ twitter: 'larysar'
 
 # Contact (edit or remove options as required)
 
-email: lsaravia@campus.ungs.edu.ar
+email: 
 phone: 
 address:
   street: 
@@ -45,13 +45,13 @@ contact_links:
     icon_pack: ai
     name: researchgate
     link: 'https://www.researchgate.net/profile/Leonardo-Saravia'
-  - icon: keybase
+  - icon: google-scholar
     icon_pack: ai
-    name: google-scholar
+    name: Gogle scholar
     link: 'https://scholar.google.com/citations?user=FEQ1q5MAAAAJ&hl=es'
   - icon: telegram
     icon_pack: fab
-    name: larysar
+    name: learsar
     link: https://t.me/@learsar
 
 
@@ -145,7 +145,7 @@ map:
   api_key: ''
   zoom: 15
 marketing:
-  google_analytics: '301640033'
+  google_analytics: 'G-BMV0WQ516F'
   google_tag_manager: ''
   google_site_verification: ''
   baidu_site_verification: ''

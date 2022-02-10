@@ -5,7 +5,7 @@ title: "Marine food webs are more complex but less stable in sub-Antarctic (Beag
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- iirodriguez
+- iara-rodriguez
 - Tomás I. Marina
 - Irene Ruth Schloss
 - admin
@@ -34,7 +34,7 @@ summary: ""
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
