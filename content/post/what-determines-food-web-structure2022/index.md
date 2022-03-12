@@ -123,5 +123,5 @@ this aspect might be a by-product of the assembly process already driven
 at the metaweb spatial and temporal scales.
 
 More info:
-[Check the complete publication here: ]({{< relref "publication/saravia-2019" >}})
+[Check the complete publication here]({{< relref "publication/saravia-2019" >}})
 

@@ -35,7 +35,7 @@ might be crossed, after which the vegetation cannot significantly recover anymor
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: []
+tags: ["forest fires"]
 categories: []
 featured: false
 
