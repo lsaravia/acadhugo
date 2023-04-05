@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Melina Crettaz Minaglia
+title: "Melina Crettaz Minaglia"
 
 # Username (this should match the folder name)
 authors:

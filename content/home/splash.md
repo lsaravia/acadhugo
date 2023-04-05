@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
 title = "Hola!"
-subtitle = "Este es el sitio del grupo de Ecología y Sistemas Complejos de la UNGS"
+subtitle = "Este es el sitio del grupo de Ecología y Sistemas Complejos"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

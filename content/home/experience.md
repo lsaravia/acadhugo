@@ -22,13 +22,25 @@ date_format: 2006-01-02
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+
+
+  
+  - title: Investigador Independiente
+    company: Centro Austral de Investigaciones Científicas - CONICET
+    company_url: 'https://cadic.conicet.gov.ar/'
+    company_logo: org-gc
+    location: "Ushuaia, Argentina"
+    date_start: "2022-06-01"
+    date_end: ''
+    description: 
+
   - title: Investigador/Docente
     company: Universidad Nacional de General Sarmiento
     company_url: 'https://www.ungs.edu.ar/'
     company_logo: org-gc
     location: "Buenos Aires, Argentina"
     date_start: "2010-03-01"
-    date_end: ''
+    date_end: '2022-06-01'
     description: |2-
         Responsibilities include:
         * Dictar clases de las materias del Área de Biología y Bioinformática

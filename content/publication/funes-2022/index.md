@@ -4,7 +4,7 @@
 title: "Network Analysis Can Detect Changes In Food Web Stability Produced By Bottom Trawl Fishery In Patagonia"
 authors: [Funes Manuela, admin, Georgina Cordone, Oscar Iribarne, David Galvan]
 date: 2022-01-19
-doi: "10.21203/rs.3.rs-1218284/v1"
+doi: "10.1038/s41598-022-14363-y"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2022-01-19
@@ -16,7 +16,7 @@ publishDate: 2022-01-19
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "In Review - Scientific Reports "
+publication: "Scientific Reports "
 publication_short: ""
 
 abstract: "Demersal fisheries are one of the top anthropic stressors in marine environments. In the long term, some species are more vulnerable to fishery impacts than others, which can lead to permanent changes on the food web. The trophic relationships between predator and prey constitute the food web and it represents a network of the energy channels in an ecosystem. In turn, the network structure influences ecosystem diversity and stability.The first aim of this study was to describe for the first time the food web of the San Jorge Gulf (Patagonia Argentina) with high resolution, i.e. to the species level when information is available. The San Jorge Gulf was subject to intense fisheries thus our second aim is to analyse the food web structure with and without fishery to evaluate if the bottom-trawl industrial fishery altered the network structure and stability. We used several network metrics like: mean trophic level, omnivory, modularity and quasi-sign stability. We included these metrics because they are related to stability and can be evaluated using predator diets that can weight the links between predators and prey. The network presented 165 species organized in five trophic levels. The inclusion of a fishery node adds 71 new trophic links. All weighted and unweighted metrics showed differences between the two networks, reflecting a decrease in stability when fishery was included in the system. Thus, our results suggested a probable change of state of the system. The observed changes in species abundances since the fishery was established, could represent the state change predicted by network analysis. Our results show how changes in the stability of food webs can be used to evaluate the impacts of human activity on ecosystems."
@@ -24,9 +24,14 @@ abstract: "Demersal fisheries are one of the top anthropic stressors in marine e
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: []
+tags: 
+- ecological Networks
+- food web structure
+- modularity 
+- QSS Stability
+
 categories: []
-featured: false
+featured: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.

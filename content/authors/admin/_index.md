@@ -10,14 +10,15 @@ role: Professor/Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Universidad Nacional de General Sarmiento
-  url: ""
 
-- name: CADIC - CONICET
+- name: Centro Austral de Investigaciones Científicas - CONICET
   url: "https://cadic.conicet.gov.ar/"
 
+- name: Universidad Nacional de General Sarmiento
+  url: "https://www.ungs.edu.ar/"
+
 # Short bio (displayed in user profile at end of posts)
-bio: Docente/Investigador de la UNGS, Investigador Independiente CADIC - CONICET, Doctor en Biología de la UBA. Complex systems. Networks. Global Forest Fragmentation. Open science. R C++ & Python.
+bio: Investigador Independiente CADIC - CONICET, Docente/Investigador de la UNGS, Doctor en Biología de la UBA. Complex systems. Networks. Global Forest Fragmentation. Open science. R, Julia, Netlogo, C++ & Python.
 
 # Interests to show in About widget
 interests:
@@ -26,6 +27,7 @@ interests:
 - Global forest Fragmentation
 - R Statistical languaje
 - Netlogo/GoogleEarthEngine/C++
+- Julia
 
 
 # Education to show in About widget
@@ -77,4 +79,4 @@ email: ""
 highlight_name: true
 ---
 
-I am a Professor/Researcher on Biology and theoretical computational ecology at the Institute of Sciences University of General Sarmiento. My research interests include ecological networks, dynamic models of populations and communities, biodiversity, critical transitions, global forest dynamics, early warnings, deforestations. 
+I am a Professor/Researcher on Biology and theoretical computational ecology at the Austral Center for Scientific Research [CADIC]. My research interests include ecological networks, forest-fire models, dynamic models of populations and communities, biodiversity, critical transitions, global forest fragmentation, early warnings. 

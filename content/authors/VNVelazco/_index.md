@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nicolás Velazco  
+title: "Nicolás Velazco"
 
 # Username (this should match the folder name)
 authors:
@@ -38,12 +38,12 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-#- icon: envelope
-#  icon_pack: fas
-#  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-#- icon: researchgate
-#  icon_pack: fab
-#  link: https://www.researchgate.net/profile/Iara_Rodriguez3
+- icon: envelope
+  icon_pack: fas
+  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+- icon: researchgate
+  icon_pack: fab
+  link: https://www.researchgate.net/profile/Victor-Velazco
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/123iamela/

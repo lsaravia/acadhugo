@@ -16,15 +16,18 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2022-01-30T19:53:13-03:00
-date_end: 2022-01-30T19:53:13-03:00
+date: 2020-12-10
 all_day: false
 
 # Schedule page publish date (NOT event date).
 publishDate: 2022-01-30T19:53:13-03:00
 
-authors: []
-tags: []
+authors: [admin]
+tags:
+- Global forest
+- Critical transitions
+- Climatic change
+- Early warnings
 
 # Is this a featured event? (true/false)
 featured: false
@@ -46,11 +49,10 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your event's folder or a URL.
-url_slides:
-
+url_slides: 
 url_code:
-url_pdf:
-url_video:
+url_pdf: 
+url_video: https://www.youtube.com/watch?v=Px0B4Gq_FkM&t=106s
 
 # Markdown Slides (optional).
 #   Associate this event with Markdown slides.
@@ -64,5 +66,6 @@ slides: ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["estudio-bosques-globales"]
+
 ---
